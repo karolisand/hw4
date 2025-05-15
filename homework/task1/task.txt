@@ -1,0 +1,3 @@
+Modify guess_game_extended.py:
+1. Add command 'quit' which would exit the game while playing. Please print "Thank you for playing"
+(you enter that after 'Please enter your guess')

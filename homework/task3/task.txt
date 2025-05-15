@@ -1,0 +1,2 @@
+3. Optional for Advanced Students (self-learning task).
+   Investigate library 'Rich' and make prompts more UI friendly.
